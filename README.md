@@ -26,4 +26,4 @@ The cummmulative yearly confirmed cases shows that the rate of confirmed cases b
 ----
 # Recommendation
 It is advisable to get vaccinated, observe all COVID19 protection guildlines If anyone wants to travel to any of the top 5 countries with higher confirmed cases to reduce the risk of contacting it
-
+The reducton in the number of confirmed cases between 2021 and 2022 was as a result of available vaccine so for you to reduce the risk of contacting kindlyy GET VACCINATED IT'S FREE.
