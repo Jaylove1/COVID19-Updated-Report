@@ -17,5 +17,13 @@ During the transformaton process I changed the data type to numbers, give the da
 The confirmed, death and recovered cases where uploaded separately I was able to merged it together to create amazing dashboard
 
 ----
-Findings and Recommendation
-From the 
+# Findings 
+From the pivottable and chart generated
+Top 5 countries with highest confirmed COVID19 cases was shown which are US, India, Brazil, France and United Kingdom
+Top 5 countries with lowest confirmed COVID19 cases was also shown which are  Antantica, North Korea, Micronesia and so on
+The cummmulative yearly confirmed cases shows that the rate of confirmed cases between 2021 and 2022 is reduced what is in 2020/2021 which shows that the rate of spread  of the virus is reducing with time.
+
+----
+# Recommendation
+It is advisable to get vaccinated, observe all COVID19 protection guildlines If anyone wants to travel to any of the top 5 countries with higher confirmed cases to reduce the risk of contacting it
+
